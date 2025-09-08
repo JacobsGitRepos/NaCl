@@ -1,0 +1,16 @@
+{
+  "resolution": [800, 600],
+  "fullscreen": false,
+  "volume": {
+    "music": 0.8,
+    "sfx": 0.8
+  },
+  "keybinds": {
+    "up": "K_UP",
+    "down": "K_DOWN",
+    "left": "K_LEFT",
+    "right": "K_RIGHT",
+    "confirm": "K_RETURN",
+    "back": "K_ESCAPE"
+  }
+}
